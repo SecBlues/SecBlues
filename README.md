@@ -7,7 +7,7 @@ Currently looking for full-time security roles.
 ## Links
 
 - 🌐 Blog: [secblues.com](https://secblues.com)
-- 💼 LinkedIn: *(coming soon)*
+- 💼 LinkedIn: [linkedin.com/in/collin-hosking/](https://www.linkedin.com/in/collin-hosking/)
 - 📁 Homelab docs: [homelab-docs](https://github.com/SecBlues/homelab-docs)
 
 ---
