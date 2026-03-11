@@ -45,7 +45,7 @@ I document real deployments on my blog — not sanitized walkthroughs, but the a
 
 - TCM Security PSAA (Practical Security Analyst Associate)
 - TryHackMe — active
-- Security+ — in progress
+- Security+ 
 
 ---
 
