@@ -1,8 +1,14 @@
-# Hey, I'm Collin
+# I'm Collin
 
 Cybersecurity analyst based in the DMV. I build and break things in my homelab and write about what actually happens — the friction, the tradeoffs, the stuff that doesn't work the first time.
 
 Currently looking for full-time security roles.
+
+## Links
+
+- 🌐 Blog: [secblues.com](https://secblues.com)
+- 💼 LinkedIn: *(coming soon)*
+- 📁 Homelab docs: [homelab-docs](https://github.com/SecBlues/homelab-docs)
 
 ---
 
@@ -49,12 +55,5 @@ I document real deployments on my blog — not sanitized walkthroughs, but the a
 
 ---
 
-## Links
-
-- 🌐 Blog: [secblues.com](https://secblues.com)
-- 💼 LinkedIn: *(coming soon)*
-- 📁 Homelab docs: [homelab-docs](https://github.com/SecBlues/homelab-docs)
-
----
 
 *Based in the DMV. Open to full-time security roles.*
