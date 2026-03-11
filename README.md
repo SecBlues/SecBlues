@@ -16,7 +16,6 @@ Currently looking for full-time security roles.
 
 - **Security Onion deployment** — Standing up a full NSM stack in my homelab. Documenting the process from hardware selection through traffic validation and tuning. ([Signal and Noise series →](https://secblues.com/category/signal-and-noise/))
 - **Self-hosted infrastructure** — Proxmox cluster, OPNsense firewall, VLAN segmentation, AdGuard Home, reverse proxy stack, Home Assistant. All documented.
-- **TCM Security PSAA cert** — Completed. Working toward Security+.
 
 ---
 
@@ -49,11 +48,10 @@ I document real deployments on my blog — not sanitized walkthroughs, but the a
 
 ## Certs & Training
 
-- TCM Security PSAA (Practical Security Analyst Associate)
+- CompTIA Security+ (Feb 2025)
+- TCM Security PSAA (Practical Security Analyst Associate) (Jul 2024)
 - TryHackMe — active
-- Security+ 
 
 ---
-
 
 *Based in the DMV. Open to full-time security roles.*
